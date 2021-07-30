@@ -1,0 +1,11 @@
+true-false $ C++ is an object-oriented programming language? $ 1
+true-false $ C++ has been derived from C? $ 1
+true-false $ C++ does not support multiple inheritance? $ 0
+true-false $ C++ does not support polymorphism? $ 0
+true-false $ In C++ you cannot overload operators? $ 0
+
+word-completion $ The capital of Greece is [Athens]
+word-completion $ The SI unit of measurement for length is [metre]
+word-completion $ Greece is situated in [Europe]
+word-completion $ The national product of Greece is [feta]
+word-completion $ The east neighbour of Greece is [Turkey]
